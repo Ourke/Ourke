@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://i.redd.it/y7x6lnrb79ya1.gif" align="center" height="120" width="120" />
+</div>  
+  
+
 ### <div align="center">I'm Taha, a self-taught full-stack developer.</div>  
   
 
