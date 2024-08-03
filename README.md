@@ -4,9 +4,7 @@
   
 
 ### <div align="center">I'm Taha, a self taught full-stack developer.</div>  
-  
 
-- 🔭 I am currently working on a Obfuscator project called Wyrix Obfuscator.  
   
 
 - 🌱 I am currently learning Code Obfuscation and its security techniques.  
