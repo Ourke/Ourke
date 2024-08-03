@@ -97,4 +97,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">I used <a href="https://profilinator.rishav.dev/" target="_blank">"Github Profilinator"</a> to generate my profile README</div>
