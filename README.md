@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Taha, a self-taught full-stack developer.</div>  
+### <div align="center">I'm Taha, a self taught full-stack developer.</div>  
   
 
 - 🔭 I am currently working on a Obfuscator project called Wyrix Obfuscator.  
